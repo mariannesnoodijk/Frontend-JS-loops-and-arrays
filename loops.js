@@ -31,7 +31,7 @@ for (let i = 0; i < 5; i++) {
     if (i === 4) {
         console.log("klaar!");
     } else {
-        console.log("loop");
+        console.log("loop...");
     }
 }
 
